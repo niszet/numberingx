@@ -1,0 +1,14 @@
+Package: numberingx
+Type: Package
+Title: Package for numbering.xml modification
+Version: 0.0.0.9000
+Author: niszet [aut, cph, cre]
+Maintainer: niszet <niszet_dev@gmail.com>
+Description: Modification of numbering.xml in docx file support package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
